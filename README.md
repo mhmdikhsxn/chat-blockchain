@@ -35,4 +35,4 @@ Buka file `scripts/ethers.js` lalu ganti `MASUKAN_ADDRESS` dengan addres yang su
 
 Bukan file `index.html` dan jalankan dengan **Live Server** yang ada di vscode atau apapun itu.
 
-~ Happy Coding!
+#### ~ Happy Coding!
