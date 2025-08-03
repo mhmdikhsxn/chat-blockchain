@@ -16,7 +16,7 @@ const login = async () => {
 
   const signer = await metamask.getSigner();
   address = await signer.getAddress();
-  contract = new ethers.Contract("MASUKAN_ADDRESS", abi, signer)
+  contract = new ethers.Contract("0x610178dA211FEF7D417bC0e6FeD39F05609AD788", abi, signer)
 }
 
 const chats = async (lazy) => {

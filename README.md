@@ -29,7 +29,7 @@ Lalu copy Addres yang muncul di log
 Addres 0x610178dA211F.....
 ```
 
-Buka file `scripts/ethers.js` lalu ganti `MASUKAN_ADDRESS` dengan addres yang sudah dicopy.
+Buka file `scripts/ethers.js` lalu ganti `0x610178dA211FEF7D417bC0e6FeD39F05609AD788` dengan addres yang sudah dicopy.
 
 #### 🖼️ Akses Web Page
 
