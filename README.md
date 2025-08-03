@@ -36,3 +36,5 @@ Buka file `scripts/ethers.js` lalu ganti `0x610178dA211FEF7D417bC0e6FeD39F05609A
 Bukan file `index.html` dan jalankan dengan **Live Server** yang ada di vscode atau apapun itu.
 
 #### ~ Happy Coding!
+
+![Image Preview](https://github.com/zeative/chat-blockchain/blob/main/preview.gif?raw=true)
