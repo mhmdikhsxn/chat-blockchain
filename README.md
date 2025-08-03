@@ -1,4 +1,4 @@
-# Global Chat App berbasis Smart Contract Blockchain dengan Hardhat
+## Global Chat App berbasis Smart Contract Blockchain dengan Hardhat
 
 ![Image Preview](https://github.com/zeative/chat-blockchain/blob/main/preview.jpg?raw=true)
 
